@@ -104,6 +104,27 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "localhost:8080/api/v1/person/f183fb0b-c0bd-49f5-9673-8e8bf904e897",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/v1/person/f183fb0b-c0bd-49f5-9673-8e8bf904e897",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"person",
+						"f183fb0b-c0bd-49f5-9673-8e8bf904e897"
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"protocolProfileBehavior": {}
